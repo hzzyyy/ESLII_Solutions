@@ -4,4 +4,4 @@ This is a selective solution manual I've been writing during my self study of th
 
 If you find the latex rendering in Jupyter notebook on github not satisfying enough, please jump to nbviewer by clicking on the following link:
 
-http://nbviewer.jupyter.org/github/hzzyyy/ESLII_Solutions/tree/master/
+https://nbviewer.jupyter.org/github/zhangyihoo/ESLII_Solutions/tree/master/
